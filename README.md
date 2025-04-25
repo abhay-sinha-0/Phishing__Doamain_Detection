@@ -19,11 +19,11 @@ after making model we save this model
 
 # output
 **Run Main.py**<br>
-<img src="https://github.com/amansetu03/Phishing-Domain-Detection/assets/106844274/844f3711-5ce0-4559-903d-a21bc585adef">
+<img src="https://github.com/abhay-sinha-0/Phishing__Doamain_Detection/blob/master/__pycache__/assets/Screenshot%202025-04-25%20214304.png">
 <br>
 go to the url http://127.0.0.1:5000
 it will open a window like <br><br>
-<img src="https://github.com/amansetu03/Phishing-Domain-Detection/assets/106844274/1caa012c-9d7e-4946-bb6a-1b3b3f3a41c4"><br><br>
+<img src="https://github.com/abhay-sinha-0/Phishing__Doamain_Detection/blob/master/__pycache__/assets/Screenshot%202025-04-25%20200856.png"><br><br>
 enter url then internally it will go to machune learning model and then it test the url that given url is phishing domain or not
 <br><br>
-<img src="https://github.com/amansetu03/Phishing-Domain-Detection/assets/106844274/baad4559-8764-4c87-b612-0b8fe7f8e478">
+<img src="https://github.com/abhay-sinha-0/Phishing__Doamain_Detection/blob/master/__pycache__/assets/Screenshot%202025-04-25%20200923.png">
